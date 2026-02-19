@@ -43,6 +43,11 @@ body {
   margin-bottom: 1rem;
 }
 
+#summary a {
+    text-decoration: none;
+    color: white;
+}
+
 #summary address {
   font-weight: bold;
 }
